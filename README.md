@@ -8,6 +8,7 @@
 **Pledge:** I retain all ownership. **10% of net proceeds goes to STEM + sports programs for inner-city youth (Baltimore + Atlanta priority).**
 
 ---
+https://github.com/tsmithcode/mom-youre-fired/blob/021bc0d4a7de06c8af6b03ce8afce77d2fd3230d/COVER.png
 
 ## What this is
 
