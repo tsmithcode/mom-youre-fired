@@ -55,7 +55,7 @@ See **LICENSE.md** and **PLEDGE.md**.
 
 ## Vision
 
-This project is meant to show young Black kids, especially in Baltimore and Atlanta, that:
+This project is meant to show young kids and parents, especially in Baltimore and Atlanta, that:
 1. Tech comes from home.
 2. Moms are venture capital.
 3. Behavior > brilliance.
@@ -77,4 +77,7 @@ Book + slides + ATL Tech Village deck.
 👉 [Buy on Stripe](YOUR_STRIPE_LINK_2)
 
 > 10% of net proceeds goes to STEM + sports for inner-city youth (Baltimore + Atlanta).
+
+## ATL Tech Village Speaking Blurb
+>“This is an open GitHub book launch that proves you can ship IP, protect ownership, accept Stripe, and still pledge 10% to the community. It’s called Mom, You’re Fired. It’s about behavior beating brilliance. And it’s dedicated to working moms who were our first investors.”
 
