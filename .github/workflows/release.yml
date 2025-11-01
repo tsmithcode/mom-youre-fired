@@ -1,0 +1,24 @@
+name: Build and Release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+jobs:
+  build-and-zip:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Create bundle
+        run: |
+          mkdir dist
+          zip -r dist/mom-youre-fired-${{ github.ref_name }}.zip docs art press payment LICENSE.md PLEDGE.md README.md
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: mom-youre-fired
+          path: dist/*.zip
