@@ -61,3 +61,16 @@ This project is meant to show young Black kids, especially in Baltimore and Atla
 3. Behavior > brilliance.
 
 — Thomas
+
+## 💳 Buy the Book / Support the Mission
+
+**Digital Bundle – $19**  
+Perfect if you just want the story, art references, and to support the project.  
+👉 [Buy on Stripe](YOUR_STRIPE_LINK)
+
+**Church / Classroom License – $39**  
+Read aloud, project on a screen, use for STEM day or youth Sunday.  
+👉 [Buy on Stripe](YOUR_STRIPE_LINK_2)
+
+> 10% of net proceeds goes to STEM + sports for inner-city youth (Baltimore + Atlanta).
+
