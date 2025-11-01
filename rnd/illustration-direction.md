@@ -35,5 +35,3 @@ Each chapter becomes one illustrated spread (left: image, right: text).
 5. **Launch strategy** – Target Christian bookstores, tech/STEM schools, and Black family networks.
 
 ---
-
-Would you like me to mock up a **visual storyboard (12 illustrated frames with text captions)** to guide your illustrator — matching your story word-for-word?
