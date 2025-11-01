@@ -72,5 +72,9 @@ Perfect if you just want the story, art references, and to support the project.
 Read aloud, project on a screen, use for STEM day or youth Sunday.  
 👉 [Buy on Stripe](YOUR_STRIPE_LINK_2)
 
+**Founder Pack – $99**  
+book + slides + ATL Tech Village deck.  
+👉 [Buy on Stripe](YOUR_STRIPE_LINK_2)
+
 > 10% of net proceeds goes to STEM + sports for inner-city youth (Baltimore + Atlanta).
 
