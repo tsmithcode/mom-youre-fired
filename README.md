@@ -11,7 +11,7 @@
 
 ## What this is
 
-**_Mom, You’re Fired_** is a children’s / family book about a Black mother who buys her son his first computer, he takes it apart, grows into an engineer–entrepreneur, and one day tells her:
+**_Mom, You’re Fired_** is a children’s / family book about a mother who buys her son his first computer, he takes it apart, grows into an engineer–entrepreneur, and one day tells her:
 
 > **“Mom… you’re fired.”**  
 > (because she never has to work again)
